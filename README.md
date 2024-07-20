@@ -30,7 +30,7 @@ This project provides a framework for building a Discord bot. You can customize 
    - Start the bot by running the main Python script.
 
    ```bash
-   python bot.py
+   python main.py
    ```
 
 ## Hosting on Replit
